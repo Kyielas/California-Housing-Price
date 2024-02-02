@@ -25,6 +25,8 @@ The primary challenge lies in developing a robust and accurate model that predic
 
 3. Median Absolute Percentage Error (MAPE): Measures the median percentage difference between predicted and actual house values as a percentage of the actual values. A lower MAPE indicates better model accuracy relative to the actual house values.
 
+## **Data Information**
+
 | **Feature**         | **Description**                                          |
 |---------------------|----------------------------------------------------------|
 | `Longitude`         | Geographic coordinates of the house.                     |
